@@ -1,0 +1,987 @@
+"results": [
+        {
+            "dateTime": "2023-03-07T08:55:00-03:00",
+            "phrase": "Sunny",
+            "iconCode": 1,
+            "hasPrecipitation": false,
+            "isDayTime": true,
+            "temperature": {
+                "value": 22.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperature": {
+                "value": 22.9,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperatureShade": {
+                "value": 20.7,
+                "unit": "C",
+                "unitType": 17
+            },
+            "relativeHumidity": 65,
+            "dewPoint": {
+                "value": 15.3,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wind": {
+                "direction": {
+                    "degrees": 0.0,
+                    "localizedDescription": "N"
+                },
+                "speed": {
+                    "value": 10.2,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "windGust": {
+                "speed": {
+                    "value": 25.6,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "uvIndex": 3,
+            "uvIndexPhrase": "Moderate",
+            "visibility": {
+                "value": 16.1,
+                "unit": "km",
+                "unitType": 6
+            },
+            "obstructionsToVisibility": "",
+            "cloudCover": 2,
+            "ceiling": {
+                "value": 9144.0,
+                "unit": "m",
+                "unitType": 5
+            },
+            "pressure": {
+                "value": 1016.0,
+                "unit": "mb",
+                "unitType": 14
+            },
+            "pressureTendency": {
+                "localizedDescription": "Steady",
+                "code": "S"
+            },
+            "past24HourTemperatureDeparture": {
+                "value": 0.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "apparentTemperature": {
+                "value": 22.2,
+                "unit": "C",
+                "unitType": 17
+            },
+            "windChillTemperature": {
+                "value": 22.2,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wetBulbTemperature": {
+                "value": 17.9,
+                "unit": "C",
+                "unitType": 17
+            },
+            "precipitationSummary": {
+                "pastHour": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past3Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past6Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past9Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past12Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past18Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past24Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                }
+            },
+            "temperatureSummary": {
+                "past6Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 22.0,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past12Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 22.0,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past24Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 25.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                }
+            }
+        },
+        {
+            "dateTime": "2023-03-07T07:55:00-03:00",
+            "phrase": "Sunny",
+            "iconCode": 1,
+            "hasPrecipitation": false,
+            "isDayTime": true,
+            "temperature": {
+                "value": 20.2,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperature": {
+                "value": 20.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperatureShade": {
+                "value": 18.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "relativeHumidity": 70,
+            "dewPoint": {
+                "value": 14.6,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wind": {
+                "direction": {
+                    "degrees": 0.0,
+                    "localizedDescription": "N"
+                },
+                "speed": {
+                    "value": 10.5,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "windGust": {
+                "speed": {
+                    "value": 26.0,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "uvIndex": 1,
+            "uvIndexPhrase": "Low",
+            "visibility": {
+                "value": 16.1,
+                "unit": "km",
+                "unitType": 6
+            },
+            "obstructionsToVisibility": "",
+            "cloudCover": 2,
+            "ceiling": {
+                "value": 9144.0,
+                "unit": "m",
+                "unitType": 5
+            },
+            "pressure": {
+                "value": 1016.0,
+                "unit": "mb",
+                "unitType": 14
+            },
+            "pressureTendency": {
+                "localizedDescription": "Falling",
+                "code": "F"
+            },
+            "past24HourTemperatureDeparture": {
+                "value": 0.2,
+                "unit": "C",
+                "unitType": 17
+            },
+            "apparentTemperature": {
+                "value": 19.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "windChillTemperature": {
+                "value": 20.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wetBulbTemperature": {
+                "value": 16.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "precipitationSummary": {
+                "pastHour": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past3Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past6Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past9Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past12Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past18Hours": {
+                    "value": 6.1,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past24Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                }
+            },
+            "temperatureSummary": {
+                "past6Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 20.2,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past12Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 20.9,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past24Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 25.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                }
+            }
+        },
+        {
+            "dateTime": "2023-03-07T06:55:00-03:00",
+            "phrase": "Partly sunny",
+            "iconCode": 3,
+            "hasPrecipitation": false,
+            "isDayTime": true,
+            "temperature": {
+                "value": 19.6,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperature": {
+                "value": 18.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperatureShade": {
+                "value": 18.2,
+                "unit": "C",
+                "unitType": 17
+            },
+            "relativeHumidity": 82,
+            "dewPoint": {
+                "value": 16.6,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wind": {
+                "direction": {
+                    "degrees": 23.0,
+                    "localizedDescription": "NNE"
+                },
+                "speed": {
+                    "value": 14.3,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "windGust": {
+                "speed": {
+                    "value": 35.7,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "uvIndex": 0,
+            "uvIndexPhrase": "Low",
+            "visibility": {
+                "value": 9.7,
+                "unit": "km",
+                "unitType": 6
+            },
+            "obstructionsToVisibility": "",
+            "cloudCover": 32,
+            "ceiling": {
+                "value": 9144.0,
+                "unit": "m",
+                "unitType": 5
+            },
+            "pressure": {
+                "value": 1014.0,
+                "unit": "mb",
+                "unitType": 14
+            },
+            "pressureTendency": {
+                "localizedDescription": "Rising",
+                "code": "R"
+            },
+            "past24HourTemperatureDeparture": {
+                "value": 0.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "apparentTemperature": {
+                "value": 20.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "windChillTemperature": {
+                "value": 19.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wetBulbTemperature": {
+                "value": 17.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "precipitationSummary": {
+                "pastHour": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past3Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past6Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past9Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past12Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past18Hours": {
+                    "value": 6.1,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past24Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                }
+            },
+            "temperatureSummary": {
+                "past6Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 19.6,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past12Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 21.6,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past24Hours": {
+                    "minimum": {
+                        "value": 18.9,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 25.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                }
+            }
+        },
+        {
+            "dateTime": "2023-03-07T05:55:00-03:00",
+            "phrase": "Mostly clear",
+            "iconCode": 34,
+            "hasPrecipitation": false,
+            "isDayTime": false,
+            "temperature": {
+                "value": 19.5,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperature": {
+                "value": 18.1,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperatureShade": {
+                "value": 18.1,
+                "unit": "C",
+                "unitType": 17
+            },
+            "relativeHumidity": 83,
+            "dewPoint": {
+                "value": 16.6,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wind": {
+                "direction": {
+                    "degrees": 0.0,
+                    "localizedDescription": "N"
+                },
+                "speed": {
+                    "value": 14.5,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "windGust": {
+                "speed": {
+                    "value": 36.3,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "uvIndex": 0,
+            "uvIndexPhrase": "Low",
+            "visibility": {
+                "value": 9.7,
+                "unit": "km",
+                "unitType": 6
+            },
+            "obstructionsToVisibility": "",
+            "cloudCover": 24,
+            "ceiling": {
+                "value": 9144.0,
+                "unit": "m",
+                "unitType": 5
+            },
+            "pressure": {
+                "value": 1013.2,
+                "unit": "mb",
+                "unitType": 14
+            },
+            "pressureTendency": {
+                "localizedDescription": "Rising",
+                "code": "R"
+            },
+            "past24HourTemperatureDeparture": {
+                "value": 0.9,
+                "unit": "C",
+                "unitType": 17
+            },
+            "apparentTemperature": {
+                "value": 20.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "windChillTemperature": {
+                "value": 19.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wetBulbTemperature": {
+                "value": 17.7,
+                "unit": "C",
+                "unitType": 17
+            },
+            "precipitationSummary": {
+                "pastHour": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past3Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past6Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past9Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past12Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past18Hours": {
+                    "value": 6.6,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past24Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                }
+            },
+            "temperatureSummary": {
+                "past6Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 19.5,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past12Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 22.4,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past24Hours": {
+                    "minimum": {
+                        "value": 18.6,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 25.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                }
+            }
+        },
+        {
+            "dateTime": "2023-03-07T04:55:00-03:00",
+            "phrase": "Mostly clear",
+            "iconCode": 34,
+            "hasPrecipitation": false,
+            "isDayTime": false,
+            "temperature": {
+                "value": 19.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperature": {
+                "value": 18.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperatureShade": {
+                "value": 18.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "relativeHumidity": 84,
+            "dewPoint": {
+                "value": 16.7,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wind": {
+                "direction": {
+                    "degrees": 0.0,
+                    "localizedDescription": "N"
+                },
+                "speed": {
+                    "value": 14.7,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "windGust": {
+                "speed": {
+                    "value": 36.7,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "uvIndex": 0,
+            "uvIndexPhrase": "Low",
+            "visibility": {
+                "value": 9.7,
+                "unit": "km",
+                "unitType": 6
+            },
+            "obstructionsToVisibility": "",
+            "cloudCover": 16,
+            "ceiling": {
+                "value": 9144.0,
+                "unit": "m",
+                "unitType": 5
+            },
+            "pressure": {
+                "value": 1012.9,
+                "unit": "mb",
+                "unitType": 14
+            },
+            "pressureTendency": {
+                "localizedDescription": "Rising",
+                "code": "R"
+            },
+            "past24HourTemperatureDeparture": {
+                "value": 0.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "apparentTemperature": {
+                "value": 20.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "windChillTemperature": {
+                "value": 19.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wetBulbTemperature": {
+                "value": 17.7,
+                "unit": "C",
+                "unitType": 17
+            },
+            "precipitationSummary": {
+                "pastHour": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past3Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past6Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past9Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past12Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past18Hours": {
+                    "value": 7.1,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past24Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                }
+            },
+            "temperatureSummary": {
+                "past6Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 19.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past12Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 22.4,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past24Hours": {
+                    "minimum": {
+                        "value": 18.6,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 25.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                }
+            }
+        },
+        {
+            "dateTime": "2023-03-07T03:55:00-03:00",
+            "phrase": "Clear",
+            "iconCode": 33,
+            "hasPrecipitation": false,
+            "isDayTime": false,
+            "temperature": {
+                "value": 19.3,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperature": {
+                "value": 17.9,
+                "unit": "C",
+                "unitType": 17
+            },
+            "realFeelTemperatureShade": {
+                "value": 17.9,
+                "unit": "C",
+                "unitType": 17
+            },
+            "relativeHumidity": 85,
+            "dewPoint": {
+                "value": 16.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wind": {
+                "direction": {
+                    "degrees": 0.0,
+                    "localizedDescription": "N"
+                },
+                "speed": {
+                    "value": 14.9,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "windGust": {
+                "speed": {
+                    "value": 37.4,
+                    "unit": "km/h",
+                    "unitType": 7
+                }
+            },
+            "uvIndex": 0,
+            "uvIndexPhrase": "Low",
+            "visibility": {
+                "value": 9.7,
+                "unit": "km",
+                "unitType": 6
+            },
+            "obstructionsToVisibility": "",
+            "cloudCover": 9,
+            "ceiling": {
+                "value": 9144.0,
+                "unit": "m",
+                "unitType": 5
+            },
+            "pressure": {
+                "value": 1012.2,
+                "unit": "mb",
+                "unitType": 14
+            },
+            "pressureTendency": {
+                "localizedDescription": "Rising",
+                "code": "R"
+            },
+            "past24HourTemperatureDeparture": {
+                "value": 0.1,
+                "unit": "C",
+                "unitType": 17
+            },
+            "apparentTemperature": {
+                "value": 20.0,
+                "unit": "C",
+                "unitType": 17
+            },
+            "windChillTemperature": {
+                "value": 19.4,
+                "unit": "C",
+                "unitType": 17
+            },
+            "wetBulbTemperature": {
+                "value": 17.8,
+                "unit": "C",
+                "unitType": 17
+            },
+            "precipitationSummary": {
+                "pastHour": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past3Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past6Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past9Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past12Hours": {
+                    "value": 0.0,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past18Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                },
+                "past24Hours": {
+                    "value": 7.7,
+                    "unit": "mm",
+                    "unitType": 3
+                }
+            },
+            "temperatureSummary": {
+                "past6Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 19.8,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past12Hours": {
+                    "minimum": {
+                        "value": 19.3,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 22.4,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                },
+                "past24Hours": {
+                    "minimum": {
+                        "value": 18.6,
+                        "unit": "C",
+                        "unitType": 17
+                    },
+                    "maximum": {
+                        "value": 25.7,
+                        "unit": "C",
+                        "unitType": 17
+                    }
+                }
+            }
+        }
+    ]
+}
